@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saytoss/static/css/main.afcbec73.chunk.css",
+    "main.js": "/Saytoss/static/js/main.1c80f3b5.chunk.js",
+    "main.js.map": "/Saytoss/static/js/main.1c80f3b5.chunk.js.map",
+    "runtime-main.js": "/Saytoss/static/js/runtime-main.9a9a6b94.js",
+    "runtime-main.js.map": "/Saytoss/static/js/runtime-main.9a9a6b94.js.map",
+    "static/js/2.2e984201.chunk.js": "/Saytoss/static/js/2.2e984201.chunk.js",
+    "static/js/2.2e984201.chunk.js.map": "/Saytoss/static/js/2.2e984201.chunk.js.map",
+    "index.html": "/Saytoss/index.html",
+    "precache-manifest.d798696b09b32a45c5d0bfaf8f4510d5.js": "/Saytoss/precache-manifest.d798696b09b32a45c5d0bfaf8f4510d5.js",
+    "service-worker.js": "/Saytoss/service-worker.js",
+    "static/css/main.afcbec73.chunk.css.map": "/Saytoss/static/css/main.afcbec73.chunk.css.map",
+    "static/js/2.2e984201.chunk.js.LICENSE.txt": "/Saytoss/static/js/2.2e984201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9a6b94.js",
+    "static/js/2.2e984201.chunk.js",
+    "static/css/main.afcbec73.chunk.css",
+    "static/js/main.1c80f3b5.chunk.js"
+  ]
+}
